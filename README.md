@@ -66,7 +66,8 @@ BibTeX format:
     De Cao, Nicola and
     Aziz, Wilker and
     Titov, Ivan},
-  journal={Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing},
+  journal={Proceedings of the 2020 Conference on Empirical
+           Methods in Natural Language Processing},
   year={2020}
 }
 ```
