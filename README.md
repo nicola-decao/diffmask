@@ -7,7 +7,7 @@ This library contains a Pytorch implementation of Differentiable Masking Explain
 
 * **python>=3.6**
 * **pytorch>=1.5**: https://pytorch.org
-* **pytorch-lightning==0.7.5**: https://pytorch-lightning.readthedocs.io
+* **pytorch-lightning==0.7.3**: https://pytorch-lightning.readthedocs.io
 * **transformers>=2.9.0**: https://github.com/huggingface/transformers
 * **torch-optimizer>=0.0.1a9**: https://github.com/jettify/pytorch-optimizer
 * **matplotlib>=3.1.1**: https://matplotlib.org
