@@ -213,6 +213,10 @@ class ToyTaskModelDiffMask(ToyTaskModel):
                 self.alpha.data,
             )
 
+        for g in optimizer.param_groups:
+            for p in g["params"]:
+                p.grad = None
+
 
 @torch.distributions.kl.register_kl(
     torch.distributions.Bernoulli, torch.distributions.Bernoulli
