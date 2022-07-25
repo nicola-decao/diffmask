@@ -60,14 +60,19 @@ Methods in Natural Language Processing.
 
 BibTeX format:
 ```
-@article{decao2020decisions,
-  title={How do Decisions Emerge across Layers in Neural Models?},
-  author={
-    De Cao, Nicola and
-    Aziz, Wilker and
-    Titov, Ivan},
-  journal={Proceedings of the 2020 Conference on Empirical
-           Methods in Natural Language Processing},
-  year={2020}
+@inproceedings{de-cao-etal-2020-decisions,
+    title = "How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking",
+    author = "De Cao, Nicola  and
+      Schlichtkrull, Michael Sejr  and
+      Aziz, Wilker  and
+      Titov, Ivan",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.262",
+    doi = "10.18653/v1/2020.emnlp-main.262",
+    pages = "3243--3255",
 }
 ```
