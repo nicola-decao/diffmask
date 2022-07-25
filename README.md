@@ -51,11 +51,10 @@ MIT
 
 ## Citation
 ```
-[1] De Cao, N., Schlichtkrull, M., Aziz, W., Titov, I. (2020).
-How do Decisions Emerge across Layers in Neural Models? 
-Interpretation with Differentiable Masking
-In Proceedings of the 2020 Conference on Empirical
-Methods in Natural Language Processing.
+[1] Nicola De Cao, Michael Sejr Schlichtkrull, Wilker Aziz, and Ivan Titov. 2020.
+How do Decisions Emerge across Layers in Neural Models? Interpretation with Differentiable Masking.
+In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP),
+pages 3243–3255, Online. Association for Computational Linguistics.
 ```
 
 BibTeX format:
