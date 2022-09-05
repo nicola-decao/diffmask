@@ -27,7 +27,7 @@ To donwload datasets run
 $ ./scripts/download_datasets.sh
 ```
 
-To download models, use the following [link](https://mega.nz/folder/19QwELDK#CxKo4UO2P8KDt5TwYWfhmA). **Note that these are not the exaclt same models used for the paper.**
+To download models, use the following [link](https://mega.nz/folder/19QwELDK#CxKo4UO2P8KDt5TwYWfhmA). **Note that these are not the exact same models used for the paper.**
 
 
 ## Structure
